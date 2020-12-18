@@ -1,0 +1,17 @@
+/home/aakash/Desktop/flappy-bird-ai/src/main/java/com/dakster/gameobjects/pipes/PipePair.java
+/home/aakash/Desktop/flappy-bird-ai/src/main/java/com/dakster/gameobjects/pipes/Pipes.java
+/home/aakash/Desktop/flappy-bird-ai/src/main/java/com/dakster/constants/PipeConstants.java
+/home/aakash/Desktop/flappy-bird-ai/src/main/java/com/dakster/gameobjects/pipes/BirdCollider.java
+/home/aakash/Desktop/flappy-bird-ai/src/main/java/com/dakster/constants/BirdConstants.java
+/home/aakash/Desktop/flappy-bird-ai/src/main/java/com/dakster/gameobjects/ScoreLabel.java
+/home/aakash/Desktop/flappy-bird-ai/src/main/java/com/dakster/gameobjects/Window.java
+/home/aakash/Desktop/flappy-bird-ai/src/main/java/com/dakster/App.java
+/home/aakash/Desktop/flappy-bird-ai/src/main/java/com/dakster/gameobjects/Bird.java
+/home/aakash/Desktop/flappy-bird-ai/src/main/java/com/dakster/gameobjects/GameObject.java
+/home/aakash/Desktop/flappy-bird-ai/src/main/java/com/dakster/constants/GameConstants.java
+/home/aakash/Desktop/flappy-bird-ai/src/main/java/com/dakster/constants/WindowConstants.java
+/home/aakash/Desktop/flappy-bird-ai/src/main/java/com/dakster/constants/StageConstants.java
+/home/aakash/Desktop/flappy-bird-ai/src/main/java/com/dakster/gameobjects/ChildNode.java
+/home/aakash/Desktop/flappy-bird-ai/src/main/java/com/dakster/gameobjects/MainStage.java
+/home/aakash/Desktop/flappy-bird-ai/src/main/java/com/dakster/constants/ScoreLabelConstants.java
+/home/aakash/Desktop/flappy-bird-ai/src/main/java/com/dakster/gameobjects/pipes/Pipe.java
